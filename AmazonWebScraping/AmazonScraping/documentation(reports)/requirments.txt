@@ -1,0 +1,16 @@
+install requests : pip install requests 
+install BeautifulSoup  : pip install BeautifulSoup
+install ndjson to create output as ndjson file : pip install ndjson
+install re : to write regular expressions (pip install re)
+install time : pip install time
+
+instructions:
+extract.py it is used to convert ndjson.gz.py into json.py
+ndjson.py it is used to convert json.py to the ndjson.gz.py
+p1.py extracts the data of only one laptop details on webpage
+working and working1 will extract the data of multiple laptops on website
+category it is to sub to so categories/sub categories
+product.py it is to scrap unique data 
+delivery.py here I could not bale to get the data. I wolud like to optimize and try again if u give me an opportunity.
+
+

@@ -1,0 +1,30 @@
+
+<div class="puis-card-container s-card-container s-overflow-hidden aok-relative puis-include-content-margin puis puis-v1x9xtdrqwkf2b2sy3gv3bhvhpn s-latency-cf-section puis-card-border">
+for all the divs
+product name:<span class="a-size-medium a-color-base a-text-normal">
+product title:<span id="productTitle" class="a-size-large product-title-word-break">
+description: <span class="a-list-item">
+category: <span class="nav-a-content">
+mrp: <span aria-hidden="true">
+selling price: <span class="a-price-whole">
+Discount: <span aria-hidden="true" class="a-size-large a-color-price savingPriceOverride aok-align-center reinventPriceSavingsPercentageMargin savingsPercentage">
+weight: <td class="a-size-base prodDetAttrValue">
+Brand: <span class="a-size-base po-break-word">
+Image url: <div id="imgTagWrapperId" class="imgTagWrapper" style="height: 438px;">
+Laptop specification : <div id="feature-bullets" class="a-section a-spacing-medium a-spacing-top-small">
+
+
+other 
+sku id: <td class="a-size-base prodDetAttrValue">
+product title: <span id="productTitle" class="a-size-large product-title-word-break"> 
+product name: <span class="a-size-base po-break-word">
+Description: <div id="featurebullets_feature_div" class="celwidget" data-feature-name="featurebullets" data-csa-c-type="widget" data-csa-c-content-id="featurebullets" data-csa-c-slot-id="featurebullets_feature_div" data-csa-c-asin="B0BQJ7NMVM" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="pau07r-d3g6l6-id2cfi-mk4320" data-cel-widget="featurebullets_feature_div"       
+category: <span class="nav-a-content">
+MRP : <span class="a-price a-text-price" data-a-size="s" data-a-strike="true" data-a-color="secondary">
+■ Selling price : <span class="a-price aok-align-center reinventPricePriceToPayMargin priceToPay" data-a-size="xl" data-a-color="base">
+■ Discount :<span aria-hidden="true" class="a-size-large a-color-price savingPriceOverride aok-align-center reinventPriceSavingsPercentageMargin savingsPercentage">
+■ Weight  : <td class="a-size-base prodDetAttrValue">
+■ Brand name : <span class="a-size-base po-break-word">
+■ Image url :<span class="a-declarative" data-action="main-image-click" data-csa-c-type="widget" data-csa-c-func-deps="aui-da-main-image-click" data-main-image-click="{}" data-ux-click="" data-csa-c-id="9kzlal-t8swgf-564x4k-7qxgow">
+■ Laptop specification : <div id="productOverview_feature_div" class="celwidget" data-feature-name="productOverview" data-csa-c-type="widget" data-csa-c-content-id="productOverview" data-csa-c-slot-id="productOverview_feature_div" data-csa-c-asin="B0BQJ7NMVM" data-csa-c-is-in-initial-active-row="false" data-csa-c-id="zfg4px-ha3g7q-khrugh-ohj5i9" data-cel-widget="productOverview_feature_div">
+mAIN LINK: <div class="puis-card-container s-card-container s-overflow-hidden aok-relative puis-include-content-margin puis puis-v1x9xtdrqwkf2b2sy3gv3bhvhpn s-latency-cf-section puis-card-border"><div class="a-section">
