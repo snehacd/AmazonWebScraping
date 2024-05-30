@@ -11,6 +11,4 @@ p1.py extracts the data of only one laptop details on webpage
 working and working1 will extract the data of multiple laptops on website
 category it is to sub to so categories/sub categories
 product.py it is to scrap unique data 
-delivery.py here I could not bale to get the data. I wolud like to optimize and try again if u give me an opportunity.
-
-
+delivery.py here I could not able to get the data. 
